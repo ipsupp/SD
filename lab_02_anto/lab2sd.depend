@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1680277894 source:d:\documents\iaurt cu nuca stricat\lab2sd\colectie.cpp
+	<cstring>
+	"colectie.h"
+
+1680275597 d:\documents\iaurt cu nuca stricat\lab2sd\colectie.h
+	<fstream>
+	<iostream>
+
+1680278354 source:d:\documents\iaurt cu nuca stricat\lab2sd\main.cpp
+	<iostream>
+	"subalg.h"
+
+1680279110 source:d:\documents\iaurt cu nuca stricat\lab2sd\atm.cpp
+	<iostream>
+	"atm.h"
+
+1680277894 source:d:\documents\iaurt cu nuca stricat\lab2sd\tranzactie.cpp
+	"tranzactie.h"
+
+1680277762 d:\documents\iaurt cu nuca stricat\lab2sd\tranzactie.h
+	"colectie.h"
+
+1680278860 d:\documents\iaurt cu nuca stricat\lab2sd\atm.h
+	"tranzactie.h"
+
+1680277218 d:\documents\iaurt cu nuca stricat\lab2sd\subalg.h
+
+1680278938 source:d:\documents\iaurt cu nuca stricat\lab2sd\subalg.cpp
+	<iostream>
+	"atm.h"
+
